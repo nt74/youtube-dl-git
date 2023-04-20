@@ -12,6 +12,7 @@ depends=('python')
 makedepends=(
   'python-setuptools'
   'python-pypandoc'
+  'zip'
   )
 optdepends=(
   'ffmpeg: for video post-processing'
